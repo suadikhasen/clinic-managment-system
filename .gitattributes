@@ -3,4 +3,4 @@
 *.scss linguist-vendored
 *.js linguist-vendored
 CHANGELOG.md export-ignore
-static/* linguist-vendored
+*.css linguist-language = php
